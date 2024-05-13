@@ -17,5 +17,9 @@ public class StringProcessor {
         String reversed = reverse(str);
         return str.equals(reversed);
     }
+
+    public boolean isTrue(){
+        return true;
+    }
 }
 
